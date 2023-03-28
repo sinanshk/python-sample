@@ -1,4 +1,4 @@
 print("python first program...")
-num1 = 2
-num2 = 3
-sum = num1 + num2
+a = 8
+b = 9
+print ('sum: ', a + b)
